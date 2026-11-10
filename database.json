@@ -1,0 +1,128 @@
+{
+  "users": {
+    "guest_6nd7rlb": {
+      "id": "guest_6nd7rlb",
+      "name": "Arqam",
+      "hasOnboarded": true,
+      "learningLevel": "intermediate",
+      "theme": "dark",
+      "avatar": "teacher-bot",
+      "joinedDate": "2026-11-09T15:05:36.455Z"
+    },
+    "guest_wajuleb": {
+      "id": "guest_wajuleb",
+      "name": "Learner",
+      "hasOnboarded": true,
+      "learningLevel": "beginner",
+      "theme": "dark",
+      "avatar": "teacher-bot",
+      "joinedDate": "2026-11-09T15:16:56.920Z"
+    }
+  },
+  "savedComparisons": [],
+  "learningHistory": [
+    {
+      "id": "custom-homevshouse",
+      "title": "home vs house",
+      "subjects": [
+        "home",
+        "house"
+      ],
+      "category": "Science & Technology",
+      "timestamp": "2026-11-09T15:34:49.183Z"
+    },
+    {
+      "id": "ai-vs-ml",
+      "title": "Artificial Intelligence vs Machine Learning",
+      "subjects": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning (ML)"
+      ],
+      "category": "Computer Science & IT",
+      "timestamp": "2026-11-09T15:31:20.162Z"
+    },
+    {
+      "id": "custom-sciencevstechnology",
+      "title": "science vs technology",
+      "subjects": [
+        "science",
+        "technology"
+      ],
+      "category": "Computer Science & IT",
+      "timestamp": "2026-11-09T15:22:47.333Z"
+    },
+    {
+      "id": "custom-businessvseconomics",
+      "title": "business vs economics",
+      "subjects": [
+        "business",
+        "economics"
+      ],
+      "category": "Science & Technology",
+      "timestamp": "2026-11-09T15:14:35.460Z"
+    },
+    {
+      "id": "custom-businessvseconomics",
+      "title": "business vs economics",
+      "subjects": [
+        "business",
+        "economics"
+      ],
+      "category": "Science & Technology",
+      "timestamp": "2026-11-09T15:12:39.244Z"
+    },
+    {
+      "id": "custom-momvsfather",
+      "title": "mom vs father",
+      "subjects": [
+        "mom",
+        "father"
+      ],
+      "category": "Science & Technology",
+      "timestamp": "2026-11-09T15:10:16.376Z"
+    },
+    {
+      "id": "custom-khilafatvsothersystem",
+      "title": "khilafat vs other system",
+      "subjects": [
+        "khilafat",
+        "other system"
+      ],
+      "category": "Science & Technology",
+      "timestamp": "2026-11-09T15:06:32.756Z"
+    }
+  ],
+  "quizResults": [],
+  "videoJobs": {
+    "job_1794232930780_y4ook0": {
+      "jobId": "job_1794232930780_y4ook0",
+      "comparisonId": "ram-vs-rom",
+      "topicTitle": "RAM vs ROM",
+      "provider": "vector_engine",
+      "hasCustomApiKey": false,
+      "status": "rendering_interactive_vector",
+      "progress": 100,
+      "createdAt": "2026-11-09T14:02:10.781Z"
+    },
+    "job_1794237064417_k87ltb": {
+      "jobId": "job_1794237064417_k87ltb",
+      "comparisonId": "custom-momvsfather",
+      "topicTitle": "mom vs father",
+      "provider": "vector-engine",
+      "hasCustomApiKey": false,
+      "status": "rendering_interactive_vector",
+      "progress": 100,
+      "createdAt": "2026-11-09T15:11:04.418Z"
+    },
+    "job_1794237298541_dtwccv": {
+      "jobId": "job_1794237298541_dtwccv",
+      "comparisonId": "custom-businessvseconomics",
+      "topicTitle": "business vs economics",
+      "provider": "vector-engine",
+      "hasCustomApiKey": false,
+      "status": "rendering_interactive_vector",
+      "progress": 100,
+      "createdAt": "2026-11-09T15:14:58.542Z"
+    }
+  }
+}
